@@ -1,0 +1,12 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#avatar{
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-image: url(https://secure.gravatar.com/avatar/1f8b331ee1b89573b7632226b8e6632b?size=400);
+}
+main{
+    padding: 0px 10px;
+}
